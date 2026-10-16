@@ -7,6 +7,8 @@ This is the logos for my projects
 
 Note that my mascot is Lila the TV head girl.
 
+<img width="4096" height="4096" alt="1000143325" src="https://github.com/user-attachments/assets/04c47730-2ad8-4f7f-bcb0-3ced059558c4" />
+
 ## USES
 
 - The full color version of the Rhio2013PH logos can be used in creative projects like artwork, animations, and Scratch or TurboWarp projects.
@@ -22,6 +24,13 @@ Note that my mascot is Lila the TV head girl.
 - Do not use the white monochrome version of the Rhio2013PH logos on a yellow background.
 
 - Do not use the Rhio2013PH logos for fraudulent impersonation, scams, or misleading endorsements.
+
+## VECTOR NOTES
+
+The June 29, 2025 version of the Rhio2013PH logo is vectorized in 2026.
+
+<img width="2758" height="836" alt="GridArt_20250629_093559253" src="https://github.com/user-attachments/assets/0c5024e5-0773-440b-9082-35bcc1ab3d0c" />
+June 29, 2025 iteration of the Rhio2013PH logo.
 
 ## COPYRIGHT
 
