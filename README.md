@@ -25,4 +25,4 @@ Note that my mascot is Lila the TV head girl.
 
 ## COPYRIGHT
 
-All Rhio2013PH logos are open-source under the Apache license from January 2004 but you can credit me for using the Rhio2013PH logos.
+All Rhio2013PH logos are open-source under the Apache license from January 2004, but you can credit Rhio2013PH as the creator for using the Rhio2013PH logos.
